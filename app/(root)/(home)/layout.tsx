@@ -1,5 +1,5 @@
 import Navbar from "@/components/Navbar";
-import SideBar from "@/components/SideBar";
+import SideBar from "@/components/Sidebar";
 import { Metadata } from "next";
 import { ReactNode } from "react";
 export const metadata: Metadata = {
